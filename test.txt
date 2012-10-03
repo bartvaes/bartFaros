@@ -1,1 +1,6 @@
 Test tekstfile voor Git.
+
+EDIT: wijziging voor status git.
+Nog wijziging...
+
+gafeaf
